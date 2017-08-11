@@ -71,7 +71,7 @@ class Args():
 
         self.log = args.log
         
-        self.quient = args.quiet
+        self.quiet = args.quiet
 
         self.rate_limit = args.rate
 
